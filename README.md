@@ -1,4 +1,8 @@
-### Saldações!! Sou o Thyago Ramos ✋
+### Saudações!! Sou o Thyago Ramos ✋
+
+- Possuo interesse nas áreas de desenvolvimento de software bem como estrutura de dados e qualidade de software
+- Atualmente estou estudando sobre as ferramentas necessárias para um desenvolvedor Backend e Devops
+- Procuro colaborar com repositórios open sorce que irão elevar meu conhecimento em java a um novo nivel 
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-ramos/)
 [![Academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://independent.academia.edu/Thyagolouiz) 
@@ -22,8 +26,6 @@
     <img  alt="html5" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>    
     <img  alt="html5" src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img  alt="html5" src ="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
-    <img  alt="html5" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img  alt="html5" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 
