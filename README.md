@@ -5,13 +5,13 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=blac)](https://leetcode.com/oficialthyago/) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/oficialthyago2) 
 
-     
- <div>
+<div>
   <a href="https://github.com/oficialthyago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oficialthyago&show_icons=true&theme=tokyonigh&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compact&langs_count=7&theme=tokyonigh"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandramiria&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandramiria&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-
+     
+     
 ### Tecnologias que mais utilizo 
 
 <div style= "display: inline_block"><br/>
