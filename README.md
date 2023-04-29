@@ -5,9 +5,20 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=blac)](https://leetcode.com/oficialthyago/) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/oficialthyago2) 
 
-![ThyagoGitHub stats](https://github-readme-stats.vercel.app/api?username=oficialthyago&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compact)](https://github.com/oficialthyago/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/oficialthyago/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=oficialthyago&show_icons=true&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/oficialthyago/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compact&langs_count=100&theme=dracula&height=200" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Tecnologias que mais utilizo 
 
