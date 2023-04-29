@@ -9,7 +9,7 @@
  <div>
   <a href="https://github.com/Alessandramiria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oficialthyago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compactlangs_count=7&theme=tokyonight" style= 200px />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compactlangs_count=7&theme=tokyonight" style=200px />
 </div>
 
 ### Tecnologias que mais utilizo 
