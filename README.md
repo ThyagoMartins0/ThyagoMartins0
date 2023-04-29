@@ -1,4 +1,4 @@
-### Olá!! Sou o Thyago Ramos ✋
+### Saldações!! Sou o Thyago Ramos ✋
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-ramos/)
 [![Academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://independent.academia.edu/Thyagolouiz) 
