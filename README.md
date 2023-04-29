@@ -14,7 +14,7 @@
     </td>
     <td>
       <a href="https://github.com/oficialthyago/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compact&langs_count=100&theme=dracula&height=200" />
+       <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compact&langs_count=9&theme=dracula"/>
       </a>
     </td>
   </tr>
