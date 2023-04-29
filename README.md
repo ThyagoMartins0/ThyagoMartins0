@@ -5,20 +5,13 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=blac)](https://leetcode.com/oficialthyago/) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/oficialthyago2) 
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/oficialthyago/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=oficialthyago&show_icons=true&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/oficialthyago/github-readme-stats">
-       <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compact&langs_count=9&theme=dracula"/>
-      </a>
-    </td>
-  </tr>
-</table>
+      
+ <div>
+  <a href="https://github.com/Alessandramiria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oficialthyago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+ 
 
 ### Tecnologias que mais utilizo 
 
