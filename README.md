@@ -2,7 +2,7 @@
 
 - Possuo interesse nas áreas de desenvolvimento de software bem como estrutura de dados e qualidade de software
 - Atualmente estou estudando sobre as ferramentas necessárias para um desenvolvedor Backend e Devops
-- Procuro colaborar com repositórios open sorce que irão elevar meu conhecimento em java a um novo nivel 
+- Procuro colaborar com repositórios open sorce que irão elevar meu conhecimento em difentes stacksa qual já tenho conhecimento basico. 
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-ramos/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kaficafraz) 
