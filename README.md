@@ -1,4 +1,4 @@
-### Saudações!! Sou o Thyago Ramos ✋
+### Greetings!! i'm Thyago Ramos ✋
 
 - I am interested in the areas of software development as well as data structure and software quality
 - I am currently studying about the necessary tools for a Backend and Devops developer
@@ -19,7 +19,7 @@
   
      
      
-### Tecnologias que mais utilizo (Front)
+### Language I use(Front)
 
 <div style= "display: inline_block"><br/>
     <img  alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,7 +30,7 @@
   </div>
   
   
-### Tecnologias que mais utilizo (Back)
+### Language I use (Back)
 
 <div style= "display: inline_block"><br/>
     <img  alt="html5" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -58,4 +58,5 @@
 
 
 
-Fascinado pela tecnologa, a pesquisa é a minha satisfação.
+Fascinated by technology, research is my satisfaction.
+
