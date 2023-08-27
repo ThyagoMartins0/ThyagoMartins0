@@ -3,7 +3,6 @@
 - I am interested in the areas of software development as well as data structure and software quality
 - I am currently studying about the necessary tools for a Backend and Devops developer
 - I try to collaborate with open source repositories that will increase my knowledge in different stacks where I already have basic knowledge.
-- I edit all the README of my portfolios every Saturday
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-ramos/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kaficafraz) 
