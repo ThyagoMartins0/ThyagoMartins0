@@ -18,7 +18,7 @@
   
      
      
-### Language I use(Front)
+### (Front)
 
 <div style= "display: inline_block"><br/>
     <img  alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,7 +29,7 @@
   </div>
   
   
-### Language I use (Back)
+### (Back)
 
 <div style= "display: inline_block"><br/>
     <img  alt="html5" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -45,7 +45,7 @@
 </div>
   
   
-  ### Tecnologias que mais utilizo (SGBD)
+  ### SGBD)
 
 <div style= "display: inline_block"><br/>
     <img  alt="html5" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
