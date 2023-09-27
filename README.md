@@ -1,14 +1,10 @@
 ### Greetings!! i'm Thyago Ramos ✋
 
-- PT
-- Eu sou fascinado por projetos, profissionalmente falando eu foco em desenvolvimento, mas estudo em meus tempos livres  suporte ,hack,desenvolvimento, IA e construção de computadores então caso veja um python, assembly ou qualquer outra linguagem de programação em meu git, isso é totalmente por gosto a tecnologia da informação  
-- EN
-- I'm fascinated by projects, so professionally I focus on development, but in my free time I study support, hacking, development, AI and building computers so if you see a python, assembly or any other programming language in my git, that's it. totally because I'm fascinated by information technology
+- PT <br>Eu sou fascinado por projetos, profissionalmente falando eu foco em desenvolvimento, mas estudo em meus tempos livres  suporte ,hack,desenvolvimento, IA e construção de computadores então caso veja um python, assembly ou qualquer outra linguagem de programação em meu git, isso é totalmente por gosto a tecnologia da informação  
+- EN<br>I'm fascinated by projects, so professionally I focus on development, but in my free time I study support, hacking, development, AI and building computers so if you see a python, assembly or any other programming language in my git, that's it. totally because I'm fascinated by information technology
 
-- PT
-- Procuro colaborar com repositórios open source que irão aumentar meu conhecimento em diferentes stacks onde já possuo conhecimentos básicos.
-- EN
-- I try to collaborate with open source repositories that will increase my knowledge in different stacks where I already have basic knowledge.
+- PT<br>Procuro colaborar com repositórios open source que irão aumentar meu conhecimento em diferentes stacks onde já possuo conhecimentos básicos.
+- EN<br>I try to collaborate with open source repositories that will increase my knowledge in different stacks where I already have basic knowledge.
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-ramos/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kaficafraz) 
