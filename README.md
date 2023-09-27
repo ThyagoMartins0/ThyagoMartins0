@@ -1,9 +1,9 @@
 ### Greetings!! i'm Thyago Ramos ✋
 
 - PT
-Eu sou fascinado por projetos, profissionalmente falando eu foco em desenvolvimento, mas estudo em meus tempos livres  suporte ,hack,desenvolvimento, IA e construção de computadores então caso veja um python, assembly ou qualquer outra linguagem de programação em meu git, isso é totalmente por gosto a tecnologia da informação  
+- Eu sou fascinado por projetos, profissionalmente falando eu foco em desenvolvimento, mas estudo em meus tempos livres  suporte ,hack,desenvolvimento, IA e construção de computadores então caso veja um python, assembly ou qualquer outra linguagem de programação em meu git, isso é totalmente por gosto a tecnologia da informação  
 - EN
-I'm fascinated by projects, so professionally I focus on development, but in my free time I study support, hacking, development, AI and building computers so if you see a python, assembly or any other programming language in my git, that's it. totally because I'm fascinated by information technology
+- I'm fascinated by projects, so professionally I focus on development, but in my free time I study support, hacking, development, AI and building computers so if you see a python, assembly or any other programming language in my git, that's it. totally because I'm fascinated by information technology
 
 - PT
 - Procuro colaborar com repositórios open source que irão aumentar meu conhecimento em diferentes stacks onde já possuo conhecimentos básicos.
