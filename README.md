@@ -7,9 +7,6 @@
 - EN<br>I try to collaborate with open source repositories that will increase my knowledge in different stacks where I already have basic knowledge.
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-ramos/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kaficafraz) 
-[![Academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://independent.academia.edu/Thyagolouiz) 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/oficialthyago2) 
 
 
 <div>
