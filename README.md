@@ -6,13 +6,16 @@
 
 ```kotlin
 object **Thyago Martins** {
-- Hei hei, é muito bom ver você AQUI, eu sou o Thyago, e a 7 meses venho estudando
-  desenvolvimento desde web a chatbots e IA. Sou facinado por tecnologia e as stacks
-  que foco em aprender no momento são Java, Spring boot e Angular.
-- Sou dev Fullstack  tendo conhecimento em Java, Php 7.3  e JavaScript
+- Hei hei, é muito bom te ver AQUI! Eu sou o Thyago e, nos últimos 7 meses,
+  tenho me dedicado aos estudos, explorando desde desenvolvimento web até
+  chatbots e IA. Sou fascinado por tecnologia e atualmente estou focado em
+  aprender as stacks de Java, Spring Boot e Angular.
+
+Sou um desenvolvedor Fullstack e possuo conhecimento em Java, PHP 7.3 e
+JavaScript. Minha experiência de trabalho inclui projetos voluntários e freelas.
 }
 ```
-
+<br>
 <div>
   <a href="https://github.com/oficialthyago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oficialthyago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -29,8 +32,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Dev Backend - Voluntario.** \
 [**DevsFree**](https://devsfree.com.br/) • Remoto \
-Linguagens & Tecnologias: `Java`, `Spring`, `Postgree`,`Git`,\
-
+Linguagens & Tecnologias: `Java`, `Spring`, `Postgree`,`Git`, `PostgreSQL`, `Scrum`\
+Projetos em destaque: [Github](https://github.com/DevsFree)
 <br/>
 
 
