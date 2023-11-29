@@ -27,7 +27,7 @@ JavaScript. Minha experiência de trabalho inclui projetos voluntários e freela
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 
-  [<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/oficialthyago/Oficialthyago/assets/58978196/980c6cac-02a9-4935-aaeb-689f6fa2b6f5"/>](https://www.spacex.com/)
+  [<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/oficialthyago/Oficialthyago/assets/58978196/980c6cac-02a9-4935-aaeb-689f6fa2b6f5"/>]
 
 
 **Dev Backend - Voluntario.** \
