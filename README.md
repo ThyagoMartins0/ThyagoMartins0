@@ -7,9 +7,8 @@
 ```kotlin
 object **Thyago Martins** {
 - Hei hei, é muito bom te ver AQUI! Eu sou o Thyago e, nos últimos 7 meses,
-  tenho me dedicado aos estudos, explorando desde desenvolvimento web até
-  chatbots e IA. Sou fascinado por tecnologia e atualmente estou focado em
-  aprender as stacks de Java, Spring Boot e Angular.
+  tenho me dedicado aos estudos, explorando desde desenvolvimento web entre
+as tecnologias Java e PHP
 
 Sou um desenvolvedor Fullstack e possuo conhecimento em Java, PHP 7.3 e
 JavaScript. Minha experiência de trabalho inclui projetos voluntários e freelas.
@@ -28,15 +27,17 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 
   [<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/oficialthyago/Oficialthyago/assets/58978196/980c6cac-02a9-4935-aaeb-689f6fa2b6f5"/>]
-
-
 **Dev Backend - Voluntario.** \
 [**DevsFree**](https://devsfree.com.br/) • Remoto \
 Linguagens & Tecnologias: `Java`, `Spring`, `Postgree`,`Git`, `PostgreSQL`, `Scrum`\
 Projetos em destaque: [Github](https://github.com/DevsFree)
-<br/>
+<br>
 
+[<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/ThyagoMartins0/ThyagoMartins0/assets/58978196/05d9c9c5-b3d7-443c-868e-df7487210e05"/>]
+**Dev Backend - Freelancer.** \
+[**Codernex**](https://codernex.com/) • Remoto \
 
-
+Linguagens & Tecnologias: `PHP`, `Laravel`,`Git`, `MySQL`, `Scrum`\
+<br>
 Fascinated by technology, research is my satisfaction.
 
