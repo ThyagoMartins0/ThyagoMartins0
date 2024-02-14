@@ -18,8 +18,8 @@ JavaScript. Minha experiência de trabalho inclui projetos voluntários e freela
 <br>
 <div>
   <a href="https://github.com/ThyagoMartins0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oficialthyago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialthyago&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThyagoMartins0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoMartins0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ### Experiência de trabalho
