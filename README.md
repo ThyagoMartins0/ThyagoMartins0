@@ -26,15 +26,17 @@ JavaScript. Minha experiência de trabalho inclui projetos voluntários e freela
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 
-  [<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/oficialthyago/Oficialthyago/assets/58978196/980c6cac-02a9-4935-aaeb-689f6fa2b6f5"/>]
+  [<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/oficialthyago/Oficialthyago/assets/58978196/980c6cac-02a9-4935-aaeb![Screenshot_1](https://github.com/ThyagoMartins0/ThyagoMartins0/assets/58978196/bf7646cb-0dae-40a3-859b-ed031996c4e7)
+-689f6fa2b6f5"/>]
 **Dev Backend - Voluntario.** \
 [**DevsFree**](https://devsfree.com.br/) • Remoto \
 Linguagens & Tecnologias: `Java`, `Spring`, `Postgree`,`Git`, `PostgreSQL`, `Scrum`\
 Projetos em destaque: [Github](https://github.com/DevsFree)
 <br>
 
-[<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/ThyagoMartins0/ThyagoMartins0/assets/58978196/05d9c9c5-b3d7-443c-868e-df7487210e05"/>]
-**Dev Backend - Freelancer.** \
+
+[<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/ThyagoMartins0/ThyagoMartins0/assets/58978196/e955682f-4d29-49b6-bc69-c3e314381a0d"/>]
+**Dev Backend - Full-time.** \
 [**Codernex**](https://codernex.com/) • Remoto \
 
 Linguagens & Tecnologias: `PHP`, `Laravel`,`Git`, `MySQL`, `Scrum`\
