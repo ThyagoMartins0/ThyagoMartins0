@@ -1,45 +1,15 @@
 
 
-## Sobre mim!!
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ThyagoMartins0/ThyagoMartins0/assets/58978196/4cb0f0bf-1d64-4f80-8c7e-6b6e1948519b" />
+&nbsp;&nbsp;&nbsp;
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<p align="center">Se existe problema, existe solução <br><br> Backend development using Laravel/Node, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
-```kotlin
-object **Thyago Martins** {
-- Hei hei, é muito bom te ver AQUI! Eu sou o Thyago e, nos últimos 7 meses,
-  tenho me dedicado aos estudos, explorando desde desenvolvimento web entre
-as tecnologias Java e PHP
-
-Sou um desenvolvedor Fullstack e possuo conhecimento em Java, PHP 7.3 e
-JavaScript. Minha experiência de trabalho inclui projetos voluntários e freelas.
-}
-```
-<br>
-<div>
-  <a href="https://github.com/ThyagoMartins0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThyagoMartins0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoMartins0&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-
-  [<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/oficialthyago/Oficialthyago/assets/58978196/980c6cac-02a9-4935-aaeb![Screenshot_1](https://github.com/ThyagoMartins0/ThyagoMartins0/assets/58978196/bf7646cb-0dae-40a3-859b-ed031996c4e7)
--689f6fa2b6f5"/>]
-**Dev Backend - Voluntario.** \
-[**DevsFree**](https://devsfree.com.br/) • Remoto \
-Linguagens & Tecnologias: `Java`, `Spring`, `Postgree`,`Git`, `PostgreSQL`, `Scrum`\
-Projetos em destaque: [Github](https://github.com/DevsFree)
-<br>
-
-
-[<img align="left" height="50px" width="95px" alt="Warpnet" src="https://github.com/ThyagoMartins0/ThyagoMartins0/assets/58978196/e955682f-4d29-49b6-bc69-c3e314381a0d"/>]
-**Dev Backend - Full-time.** \
-[**Codernex**](https://codernex.com/) • Remoto \
-
-Linguagens & Tecnologias: `PHP`, `Laravel`,`Git`, `MySQL`, `Scrum`\
-<br>
-Fascinated by technology, research is my satisfaction.
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ThyagoMartins0&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ThyagoMartins0&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
