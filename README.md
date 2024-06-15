@@ -10,7 +10,7 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ThyagoMartins0&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoMartins0&hide=html,css,scss,blade,c%2B%2B&show_icons=true&theme=radical&layout=compact" />
 
-
+![](https://komarev.com/ghpvc/?username=ThyagoMartins0&color=blue)
  </div>
  
  &nbsp;
