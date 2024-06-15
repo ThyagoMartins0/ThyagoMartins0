@@ -1,5 +1,8 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thyago Martins
+=====================================================================================================================================
 
-##  Hello, my name is  {ThyagoMartins}! 
+Computer Engineer
+-----------------
 
 <p align="center">While there are problems, we will create solutions <br><br>I am a backend developer who uses Laravel, PHP, Java, and Node. I have a passion for discovering new things and applying them to create high-quality solutions. Currently, I am an intermediate-level backend developer focused on web development..
 </p>&nbsp;
