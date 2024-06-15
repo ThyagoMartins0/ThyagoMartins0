@@ -4,7 +4,7 @@
 Computer Engineer
 -----------------
 
-<p align="center">While there are problems, we will create solutions <br><br>I am a backend developer who uses Laravel, PHP, Java, and Node. I have a passion for discovering new things and applying them to create high-quality solutions. Currently, I am an intermediate-level backend developer focused on web development..
+<p align="center">While there are problems, we will create solutions <br><br>I am a backend developer. I have a passion for discovering new things and applying them to create high-quality solutions. Currently, I am an intermediate-level backend developer focused on web development..
 </p>&nbsp;
 
 
@@ -15,7 +15,7 @@ Computer Engineer
 ---
 
 ## 🚀 Minhas Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,aws,docker,git,mint,vue,&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,aws,docker,git,mint,vue,&perline=20)](https://skillicons.dev)
 
 
 ---
