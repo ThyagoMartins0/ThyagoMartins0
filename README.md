@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thyago Martins
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thyago Martins
 =====================================================================================================================================
 
 Computer Engineer
@@ -15,11 +15,17 @@ Computer Engineer
 ---
 
 ## 🚀 Minhas Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,aws,docker,git,mint,vue,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,aws,docker,git,mint,vue,&perline=20)](https://skillicons.dev)
 
 
 ---
- 
- &nbsp;
- &nbsp;
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/ThyagoMartins0/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
