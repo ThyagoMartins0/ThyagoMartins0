@@ -15,7 +15,7 @@ Computer Engineer
 ---
 
 ## 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,aws,docker,git,mint,vue,&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,express,aws,docker,git,mint,vue,&perline=20)](https://skillicons.dev)
 
 
 ---
