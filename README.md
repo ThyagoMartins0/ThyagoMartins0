@@ -42,7 +42,7 @@ I’m passionate about clean architecture, efficient patterns, and creating mean
 
 <div align="center">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=ThyagoMartins0&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoMartins0&hide=html,css,scss,blade,c%2B%2B&show_icons=true&theme=radical&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoMartins0&hide=html,php,css,scss,blade,c%2B%2B&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ---
